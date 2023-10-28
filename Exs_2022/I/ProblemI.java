@@ -1,0 +1,12 @@
+package I;
+import java.util.Scanner;
+
+public class ProblemI {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+       
+        sc.close();
+    }
+}
